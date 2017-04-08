@@ -10,7 +10,7 @@ module.exports = function ClozeCard(text, cloze) {
         var pattern = new RegExp(cloze, "i");
         var result = pattern.test(text);
         if (result) {
-            return "..." + text.slice(cloze.length);
+            return text.replace(pattern, " ...");
         } else {
             throw Error;
         }
