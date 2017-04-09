@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flashcard-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whoisju1/Flashcard-Generator.git"
+  },
+  "author": "Juan John-Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whoisju1/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Whoisju1/Flashcard-Generator#readme"
+}
